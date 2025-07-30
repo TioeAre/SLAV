@@ -1,4 +1,4 @@
-# Seeing Truth in Multimodal Chaos: A GRPO-Enhanced Approach for Hallucination Detection and Fact Verification
+# See, Localize and Verify: A GRPO-Powered Framework for Enhancing Factual Accuracy in Multimodal Models
 
 ## Quick Start
 
